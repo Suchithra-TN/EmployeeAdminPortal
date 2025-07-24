@@ -1,6 +1,6 @@
 using EmployeeAdminPortal.Data;
 using Microsoft.EntityFrameworkCore;
-
+//execution starts from here
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
